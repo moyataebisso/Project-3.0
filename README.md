@@ -1,4 +1,4 @@
-Project 3 Thread Synchronization - Moyata Ebisso ICS 462
+Thread Synchronization - Moyata Ebisso 
 
 a) How to compile and run program:
       1) cd to the correct directory
